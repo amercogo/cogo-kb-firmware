@@ -1,0 +1,22 @@
+# --- Kompajlerski izlazi ---
+*.hex
+*.elf
+*.o
+*.obj
+*.bin
+*.map
+*.lst
+
+# --- Build folderi ---
+build/
+bin/
+obj/
+
+# --- VS Code i Editori ---
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# --- Privremeni fajlovi simulatora ---
+sim/*.log
